@@ -2,17 +2,17 @@
 
 
 
-/*
- * main - Entry Point
+/**
  *
- * Description: Program that prints out the string s followed by a new line
+ *  * main - Entry point
  *
- * Return: int 0 when done and no errors
- */
+ *   *
+ *
+ *    * Return: Always 0 (Success)
+ *
+ *     */
 
-
-
- int main(void)
+int main(void)
 
 {
 
