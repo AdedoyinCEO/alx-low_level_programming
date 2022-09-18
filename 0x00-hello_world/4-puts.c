@@ -3,7 +3,7 @@
 
 
 /*
- * main - prints out a string via puts
+ * main - Entry Point
  *
  * Description: Program that prints out the string s followed by a new line
  *
@@ -12,7 +12,7 @@
 
 
 
-int main(void)
+ int main(void)
 
 {
 
