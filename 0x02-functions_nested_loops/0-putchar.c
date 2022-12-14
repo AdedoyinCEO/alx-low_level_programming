@@ -5,14 +5,10 @@
 
 
 /**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: nothing, return void
- *
- */
+* main - this is the main function
+* description - this is the starting point of the program
+* Return: nothing, return void
+*/
 
 
 
